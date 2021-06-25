@@ -1,4 +1,4 @@
-**Bold** and _Italic_ and `Wenzhou-Kean University Summer Lab` text
+# Wenzhou-Kean University Summer Lab
 
 A passive dynamic system could immediate reacts to environmental changes, which could create the interaction between the environment and the building, and endow the building with variability.
 
