@@ -1,6 +1,6 @@
 ## Wenzhou-Kean University Summer Lab
 
-You can use the [editor on GitHub](https://github.com/PoseidonPlus/PoseidonPlus.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A passive dynamic system could immediate reacts to environmental changes, which could create the interaction between the environment and the building, and endow the building with variability.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
