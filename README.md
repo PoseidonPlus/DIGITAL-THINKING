@@ -1,4 +1,4 @@
-## Welcome to Wenzhou-Keane University Summer Lab
+## Wenzhou-Kean University Summer Lab
 
 You can use the [editor on GitHub](https://github.com/PoseidonPlus/PoseidonPlus.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
