@@ -5,7 +5,7 @@ A passive dynamic system could immediate reacts to environmental changes, which 
 
 NEON is a quite interesting studio which can produce losts of fantastic projects.
 
-For more details see [NEON](https://www.neon.uk/)
+For more details see. [NEON](https://www.neon.uk/)
 
 ```markdown
 Syntax highlighted code block
