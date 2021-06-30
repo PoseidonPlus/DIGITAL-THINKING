@@ -1,11 +1,10 @@
-# Wenzhou-Kean University Summer Lab
-
 A passive dynamic system could immediate reacts to environmental changes, which could create the interaction between the environment and the building, and endow the building with variability.
 
 
-### Markdown
+### NEON
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+NEON is a quite interesting studio which can produce losts of fantastic projects.
+For more details see [NEON Markdown](https://www.neon.uk/)
 
 ```markdown
 Syntax highlighted code block
